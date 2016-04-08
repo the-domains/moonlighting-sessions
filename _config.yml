@@ -2,6 +2,7 @@ name: Moonlighting Sessions
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.26598441740497947
+title: moonlightings
 cta:
   domain: null
   bucket: null
