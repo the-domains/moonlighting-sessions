@@ -1,6 +1,6 @@
-name: Moonlighting Sessions
+name: MoonlightingSessions.com
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.8905
 typography_spectrum: 0.26598441740497947
 title: moonlightings
 cta:
@@ -23,7 +23,7 @@ color:
     - '#8d62ad'
     - '#af92c6'
   brandStrength: 0.75
-  lightness: 1
+  lightness: 0.875
   saturation: 0.5
   rhythmicContrast: 1
 purpose: []
