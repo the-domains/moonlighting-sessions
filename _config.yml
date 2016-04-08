@@ -1,0 +1,28 @@
+name: Moonlighting Sessions
+favicon: null
+layout_spectrum: 0.5645608021877706
+typography_spectrum: 0.26598441740497947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7017465026583523
+  lightness: 0.38136938866227865
+  saturation: 0.16642255312763155
+  rhythmicContrast: 0.5196664917748421
+purpose: []
