@@ -1,29 +1,41 @@
-name: MoonlightingSessions.com
-favicon: null
-layout_spectrum: 0.62557
-typography_spectrum: 0.4975
 title: moonlightings
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.875
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#662c91'
     - '#231f20'
     - '#8d62ad'
     - '#af92c6'
-  brandStrength: 0.875
-  lightness: 1
-  saturation: 0.5
   rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: MoonlightingSessions.com
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4975
+layout_spectrum: 0.62557
